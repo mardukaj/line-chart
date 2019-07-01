@@ -3,7 +3,7 @@
 In this example project i have created a library for drawing line charts on X, Y axes. 
 Also i have made an live example for line chart.
 
-- chart.html - Displays bar chart example.
+- chart.html - Displays bar chart example. Inside of this file you can insert your data for generating new charts.
 - scripts/canvasChart.js - In this file i have written the code for creating line chart.
 
 -----------------------
