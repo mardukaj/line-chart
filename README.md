@@ -1,6 +1,6 @@
 # line-chart
 
-In this example project i created library for drawing line charts on X, Y axes. 
+In this example project i have created a library for drawing line charts on X, Y axes. 
 Also i have made an live example for line chart.
 
 - chart.html - Displays bar chart example.
